@@ -4,6 +4,7 @@ public class ComplexRecordPatternExample {
         Object personObj = new Person("Balakrishna", 25, (Address) addressObj);
         String _ = "hello";
         String var1 = "hello";
+        String var2="Hi";
 
 
 
